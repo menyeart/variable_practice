@@ -14,3 +14,9 @@ likes_chocolate = true
 is_rich =  false
 has_dog = true
 
+name = 'Bob'
+favorite_color = 'red'
+dog = 'fido'
+
+puts "#{name}'s dog #{dog} got out and ate #{pies_eaten} pies!"
+puts "It's #{likes_chocolate} that #{name} likes chocolate."
