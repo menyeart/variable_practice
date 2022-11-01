@@ -6,6 +6,9 @@ age = 35
 favorite_number = 12
 dogs = 1
 
+tax = 7.5
+pi = 3.14
+pies_eaten = 12.6
 
 
 
